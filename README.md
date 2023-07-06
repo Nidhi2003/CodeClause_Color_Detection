@@ -17,10 +17,11 @@ We’ll be working with a dataset that contains RGB values along with their name
 The colors.csv file includes 865 color names along with their RGB and hex values.
 
 # Run Python File
-![Screenshot 2023-07-06 181955](https://github.com/Nidhi2003/CodeClause_Color_Detection/assets/91655994/b72cbdae-47ba-45ca-b31c-eaac7c7c94f2)
+
 
 # Output
 Double click on the window to get the desired color of the selected pixel.
+![Screenshot 2023-07-06 183133](https://github.com/Nidhi2003/CodeClause_Color_Detection/assets/91655994/4558d580-39c6-4ef7-8f7b-9e70e10caabf)
 ![Screenshot 2023-07-06 182114](https://github.com/Nidhi2003/CodeClause_Color_Detection/assets/91655994/be308e79-54b0-4c28-8492-537309bf0c91)
 ![Screenshot 2023-07-06 182046](https://github.com/Nidhi2003/CodeClause_Color_Detection/assets/91655994/5c3387d9-419a-40ab-bfb6-9ae7e08af99a)
 
